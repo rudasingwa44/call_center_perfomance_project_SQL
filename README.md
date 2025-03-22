@@ -40,7 +40,7 @@ The database is structured into several tables:
 ### Tools used
 
   - PostgreSQL : Querting Data
-  - MS Excel : Data Analysis and Visualisation [Spreadsheet](microsoft.com)
+  - MS Excel : Data Analysis and Visualisation [Spreadsheet](https://1drv.ms/x/c/01c329583e57a787/ERWGP3lfqUtEjbmW2dwACycBiiMsBKAvOi-N7uVHwbDcNg?e=UdGQXM)
 
 ### Queries Used
 
