@@ -40,7 +40,7 @@ The database is structured into several tables:
 ### Tools used
 
   - PostgreSQL : Querting Data
-  - MS Excel : Data Analysis and Visualisation [Spreadsheet](https://1drv.ms/x/c/01c329583e57a787/ERWGP3lfqUtEjbmW2dwACycBiiMsBKAvOi-N7uVHwbDcNg?e=UdGQXM)
+  - MS Excel : Data Analysis and Visualisation [Spreadsheet](https://1drv.ms/x/c/01c329583e57a787/EbPZzSS2yvhBtEfh1gmSBtABuxc93D6KOWk5BbgexC5Hsw?e=ijg3Zu)
 
 ### Queries Used
 
@@ -317,6 +317,27 @@ ORDER BY agent_id;
 #### Below is a screenshot of the query in PgAdmin4
 
 ![Screenshot (7)](https://github.com/user-attachments/assets/cd98816e-be57-4ebe-a406-6105f21a62d9)
+
+## Further analysis in Excel 
+
+After exporting the SQL query results via Power Query into Excel, I cleaned and transformed the data using Excel formulas such as COUNTIFS, SUMIFS, VLOOKUP, SUM and Conditional Formating. This enabled me to calculate key performance metrics—including CSAT percentages and AHT (Average Handle Time)—for each Line of Business (LOB), providing actionable insights into call center performance.
+
+### Screenshots below :
+
+![Screenshot (10)](https://github.com/user-attachments/assets/62695997-11fc-45f9-b1c3-5fa0c5a073d6)
+
+![Screenshot (11)](https://github.com/user-attachments/assets/bebd715c-af0b-45e5-9971-468a2fc5589f)
+
+
+![Screenshot (12)](https://github.com/user-attachments/assets/f82911ce-7250-4e6b-b303-3ac01f5d7112)
+
+
+![Screenshot (13)](https://github.com/user-attachments/assets/4bfc63c2-8748-4245-b813-92b983c555df)
+
+
+![Screenshot (14)](https://github.com/user-attachments/assets/3a84e598-34d5-4e24-b4f3-166bbfc5d49a)
+
+
 
 
 
